@@ -23,15 +23,7 @@ const Title = styled.h1`
   margin-top: 10px;
   margin-bottom: 10px;
   `;
-
-
-
-
-
 function Home() {
-
-
-
 
   return (
     <Container>
