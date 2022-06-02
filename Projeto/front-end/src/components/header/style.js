@@ -22,16 +22,16 @@ export const Menu = styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between !important;
 `;
 
 export const Login = styled.div`
     display: flex;
-    flex-direction: row;
-    align-items: center;
- 
-    font-size: 2rem;
+    flex-direction: row;        
+    align-items: center; 
+    font-size: 1.5rem;
     color: #333;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.5 rem;
     text-decoration: "inherit",
     color: "inherit",
 `;
